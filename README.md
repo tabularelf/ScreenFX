@@ -61,7 +61,7 @@ XorDev: https://gmshaders.com/
 
 BookOfShaders: https://thebookofshaders.com/
 
-GamvingReverend: https://www.youtube.com/channel/UC7fkptPD1FHQyDc9Fnm9S_A
+GamingReverend: https://www.youtube.com/channel/UC7fkptPD1FHQyDc9Fnm9S_A
 
 Unofficial OpenGL tutorials: https://www.opengl-tutorial.org/
 
