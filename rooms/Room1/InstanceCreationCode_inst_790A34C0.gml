@@ -1,0 +1,1 @@
+renderer.AddEffect(new ScreenFXEffectSpeedLines());
